@@ -2,9 +2,9 @@
 
 ## Toshihiro Ota
 
-Research Scientist, AI Lab, CyberAgent, Inc.
-Visiting Scientist, iTHEMS, RIKEN
-Email: toshihiro.ota12 at gmail.com
+Working on Physics and Machine Learning.
+
+Research Scientist, AI Lab, CyberAgent, Inc.<br> Visiting Scientist, iTHEMS, RIKEN<br> Email: toshihiro.ota12 at gmail.com<br>
 
 <p align="center">
   <img src="./photo.jpg" width='40%'>
