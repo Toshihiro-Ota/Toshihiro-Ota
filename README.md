@@ -2,7 +2,7 @@
 
 ## Toshihiro Ota
 
-Working on Physics and Machine Learning.
+Working on Theoretical Physics and Machine Learning.
 
 Research Scientist, AI Lab, CyberAgent, Inc.<br> Visiting Scientist, iTHEMS, RIKEN<br> Email: toshihiro.ota12 at gmail.com<br>
 
